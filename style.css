@@ -339,3 +339,8 @@ html, body {
     border-radius: 100%;
     
 }
+
+header nav ul a li {
+    text-decoration: none;
+    display: inline-block;
+}
