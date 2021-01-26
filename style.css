@@ -233,7 +233,7 @@ html, body {
     z-index: 2;
     height: 100%;
     width: 100%;
-    background: url('../stars.png');
+    background: url('stars.png');
     
     -webkit-animation: starPulse 4s infinite alternate;
     -moz-animation: starPulse 4s infinite alternate;
