@@ -340,6 +340,10 @@ html, body {
     
 }
 
+header nav ul {
+    display: inline-block;
+}
+
 header nav ul a li {
     text-decoration: none;
     display: inline-block;
